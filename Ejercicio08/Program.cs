@@ -40,6 +40,7 @@ namespace Ejercicio08
                     divisiblesEntre3++;
             }
             Console.WriteLine("Hay " + divisiblesEntre3 + " datos divisibles entre 3.");
+            Console.ReadKey();
         }
     }
 }
